@@ -217,7 +217,6 @@
 			<ul class="committee">
 				<li>Ishneet Grover </li>
 			</ul>
-				
 			
 			<h3 class="top15"><span class="bullet">•</span> International Program Committee</h3>
 			<ul class="committee">
