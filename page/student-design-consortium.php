@@ -6,11 +6,11 @@
 	<ul class="innerUl font14">
 		<li>
 			 Submission of papers:
-			<span>10 July, 2013</span>
+			<span>20 July, 2013 (closed)</span>
 		</li>
 		<li>
 			Acceptance notification:
-			<span>10 Aug, 2013</span>
+			<span>12 Aug, 2013</span>
 		</li>
 		<li>
 			Camera ready paper:
@@ -18,7 +18,7 @@
 		</li>
 </div>
 
-<p>APCHI 2013 Student Design Consortium (SDC) gives opportunities to students to demonstrate innovative interactions 
+<p>Student Design Consortium (SDC) gives opportunities to students to demonstrate innovative interactions 
 	and interface design & technologies. SDC will also allow attendees to experience new development in interaction 
 	design research and academic projects, engage and discuss work with students.</p>
 

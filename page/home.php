@@ -10,6 +10,12 @@
 						<img src="img/calendar_35.png" class="left" style="margin-right: 15px; margin-top: 2px; " alt="Calendar 65">
 						<h6>24-27 Sept, 2013, Bangalore, India</h6>
 					</div>
+					<div class="selected extended">
+						<ul>
+							<li><a href="#/selected-papers">View the list of Selected papers</a></li>
+							<li>Students interested in setting up installations for APCHI - IndiaHCI 2013, fill up the request form at <a target="_blank" href="http://goo.gl/La8sv2">http://goo.gl/La8sv2</a></li>
+						</ul>
+					</div>
 				</div>
 				<a id="apCHI" class="right" href="http://apchi2013.org/" target="_blank">
 					<h3>In Conjunction with</h3>
@@ -50,13 +56,13 @@
 		<div class="left" style="width: 450px; margin-left: 24px;">
 			<ul class="eventThumb">
 				<li class="left">
-					<a href="http://apchi2013.org/program.htm" target="_blank">
+					<a href="http://apchi2013.org/keynotes.php" target="_blank">
 						<img src="img/keynotes_thumb.png" alt="Keynote Talks">
 						<div>Keynote Programs</div>
 					</a>
 				</li>
 				<li class="left">
-					<a href="http://apchi2013.org/cfp.htm" target="_blank">
+					<a href="http://apchi2013.org/workshop.php" target="_blank">
 						<img src="img/workshop_thumb.png" alt="Workshops">
 						<div>Workshops</div>
 					</a>

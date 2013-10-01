@@ -67,6 +67,8 @@ $(function() {
 
 
 function loadPage(page){
+	if(page == "" || page == NaN) { page = "#/home"; }
+
 	var data = page.split('/'), html;
 	getPage(data[1], "null");
 	tempPage = data[1];

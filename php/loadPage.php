@@ -9,7 +9,8 @@
 			|| $page == 'call-for-papers' 
 			|| $page == 'register' 
 			|| $page == 'sponsorship' 
-			|| $page == 'organizer' 
+			|| $page == 'organizer'
+			|| $page == 'selected-papers' 
 			|| $page == 'y-u-no' ) {
 				
 			include("../page/" . $page . ".php");

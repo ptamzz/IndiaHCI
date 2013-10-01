@@ -6,11 +6,11 @@
 	<ul class="innerUl font14">
 		<li>
 			 Submission of papers:
-			<span>10 July, 2013</span>
+			<span>20 July, 2013 (closed)</span>
 		</li>
 		<li>
 			Acceptance notification:
-			<span>10 Aug, 2013</span>
+			<span>12 Aug, 2013</span>
 		</li>
 		<li>
 			Camera ready paper:
